@@ -21,7 +21,9 @@ line-height: 28px;
 border: 2px solid #079AD3;
 font-weight: bold;
 }
-
+.furniture-text{
+	color: white;
+}
 .highlight {
 	padding: 80px 0 80px 0;
     background-color:#F8F8F8;
@@ -190,7 +192,7 @@ footer {
 
 /* ------------------------ nav bar ------------------------ */
 .navbar{
-	background-color: #1A8E5E;
+	background-color: #2C493D;
 	border: 0;
 
 }
@@ -483,7 +485,7 @@ fieldset {
 	color: #fff;
 	top: 0;
 	text-decoration: none;
-	background-color: #15C56A;
+	background-color: #2C493D;
 	box-shadow: none;
 }
 .btn-store.outline {
